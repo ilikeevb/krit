@@ -1,0 +1,108 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.preview {
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    min-width: 100vw;
+}
+
+.header {
+    color: white;
+    background: rgb(218, 39, 24);
+    background: linear-gradient(90deg, rgba(218, 39, 24, 0.9984944661458334) 51%, rgba(70, 9, 242, 1) 100%);
+}
+
+.navigation {
+    padding: 15px 0 15px;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    padding: 25px;
+    font-size: 20px;
+}
+
+.content p {
+    color: black;
+    font-size: 18px;
+}
+
+.sport {
+    background-image: url(../images/4.jpg);
+    background-size: cover;
+    color: rgb(255, 0, 0);
+}
+
+.nav {
+    text-align: center;
+}
+
+.container-eat {
+    color: rgb(255, 0, 0);
+    background: rgb(218, 39, 24);
+    background: linear-gradient(90deg, rgba(218, 39, 24, 0.9984944661458334) 51%, rgba(70, 9, 242, 1) 100%);
+}
+
+.container-eat p {
+    color: black;
+}
+
+.content-bottom {
+    padding: 25px;
+    font-size: 20px;
+}
+
+.eat {
+    background-image: url(../images/9.webp);
+    background-size: cover;
+}
+
+.eat-slider {
+    padding-top: 10px;
+}
+
+.bottom-container {
+    background: rgb(218, 39, 24);
+    background: linear-gradient(90deg, rgba(218, 39, 24, 0.9984944661458334) 51%, rgba(70, 9, 242, 1) 100%);
+}
+
+.bottom-container .col-sm {
+    padding: 30px;
+}
+
+.bottom-container .col-sm div {
+    padding: 5px;
+}
+
+.bottom-container a {
+    font-size: 20px;
+}
+
+.bottom-container a:hover {
+    text-decoration: underline;
+}
